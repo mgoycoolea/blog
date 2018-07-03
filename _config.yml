@@ -1,0 +1,43 @@
+# Site
+name: "How to grow products - Martín G Scott"
+description: "Growth, Product Management and Data"
+meta_description: "How to analyze, grow and manage software products."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: "/blog-martin"
+google_analytics: ""
+disqus: ""
+mailchimp-list: ""
+
+# Authors
+authors:
+  martin:
+    name: Martin
+    display_name: Martin
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: mgoysco@gmail.com
+    web: ""
+    twitter: ""
+    description: ""
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
