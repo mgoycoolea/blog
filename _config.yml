@@ -1,13 +1,13 @@
 # Site
-name: "How to grow products - Martín G Scott"
-description: "Growth, Product Management and Data"
-meta_description: "How to analyze, grow and manage software products."
+name: "Product Growth - stories of growth and PMs"
+description: "Growth, Product Management, and Entrepreneurship - Martín Goycoolea"
+meta_description: "How to analyze, manage, and grow digital products."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "/blog-martin"
-google_analytics: ""
-disqus: ""
-mailchimp-list: ""
+baseurl: /blog-martin
+#google_analytics: ""
+#disqus: ""
+#mailchimp-list: ""
 
 # Authors
 authors:
@@ -16,9 +16,9 @@ authors:
     display_name: Martin
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: mgoysco@gmail.com
-    web: ""
-    twitter: ""
-    description: ""
+#    web: ""
+#    twitter: ""
+#    description: ""
 
 
 # Plugins
