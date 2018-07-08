@@ -2,9 +2,9 @@
 name: "Product Growth - stories of growth and PMs"
 description: "Growth, Product Management, and Entrepreneurship - Martín Goycoolea"
 meta_description: "How to analyze, manage, and grow digital products."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /blog-martin
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
+baseurl: /
 #google_analytics: ""
 #disqus: ""
 #mailchimp-list: ""
@@ -14,7 +14,7 @@ authors:
   martin:
     name: Martin
     display_name: Martin
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 26cb71c7a1526c6b7b85776c400e88fb
     email: mgoysco@gmail.com
 #    web: ""
 #    twitter: ""
