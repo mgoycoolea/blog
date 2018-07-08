@@ -6,7 +6,7 @@ logo: '/assets/images/logo.svg'
 favicon: '/assets/images/logo.svg'
 baseurl: ''
 #google_analytics: ""
-#disqus: ""
+disqus: "mgoy"
 #mailchimp-list: ""
 
 # Authors
