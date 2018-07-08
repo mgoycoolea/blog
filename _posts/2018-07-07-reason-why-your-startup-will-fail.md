@@ -18,7 +18,7 @@ Focus.
 
 Focus is the root to all good in startups.
 
-Having focus doesn't mean executing an original plan step by step. Focus is that special quality of being able to have a goal on lockdown regardless of all the crazy things happening around you and the things you have to do to acheive it.
+Having focus doesn't mean executing an original plan step by step. Focus is that special quality of being able to have a goal on lockdown regardless of all the crazy things happening around you and the things you have to do to achieve it.
 
 To be focused you must have
 - An unshakeable vision that inspires yourself and others
@@ -44,10 +44,11 @@ I find few things sadder than a half-baked pitch or a dishonest pep-talk to a un
 The whole team knows and shares a common goal. Everyone is aligned and know why they are there and what they have to do. It's just magic. It doesn't just work in tech startups: I've seen NGOs sanitizing water in rural areas or a hedge-fund trying to make billions, if you keep focused in 1 problem.
 
 However, if you just keep pivoting because
-a) your ideas are originally bad
-b) you don't know your problem or market at all
-c) you are desperate to make a little bit of money so you will sell anything your potential client will pitch you
-d) all of the above
+
+a. your ideas are originally bad  
+b. you don't know your problem or market at all  
+c. you are desperate to make a little bit of money so you will sell anything your potential client will pitch you  
+d. all of the above  
 
 chances are your team will leave eventually. That is, if they were good in the first place. I've seen companies that have been demolished after founders execute a pivot that the rest of the team found, well... unfounded.
 
