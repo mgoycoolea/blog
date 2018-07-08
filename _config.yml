@@ -5,7 +5,7 @@ meta_description: "How to analyze, manage, and grow digital products."
 logo: '/assets/images/logo.svg'
 favicon: '/assets/images/logo.svg'
 baseurl: ''
-#google_analytics: ""
+google_analytics: "UA-58930356-2"
 disqus: "mgoy"
 #mailchimp-list: ""
 
