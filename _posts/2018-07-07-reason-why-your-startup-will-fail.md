@@ -3,9 +3,9 @@ layout: post
 title:  "The number 1 thing you need to succeed as an entrepreneur"
 author: martin
 categories: [ Startups, product ]
-image: assets/images/11.jpg
+image: assets/images/archer-focus-925px.jpg
 featured: true
-hidden: true
+hidden: false
 permalink: focus-for-startup-success
 ---
 
