@@ -1,6 +1,6 @@
 # Site
-name: "Product Growth - stories of growth and PMs"
-description: "Growth, Product Management, and Entrepreneurship - Martín Goycoolea"
+name: "Product Growth Stories"
+description: "Growth, Product Management, and Startups - Martín Goycoolea"
 meta_description: "How to analyze, manage, and grow digital products."
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
@@ -16,9 +16,9 @@ authors:
     display_name: Martin
     gravatar: 268ae3f005c2c3398ce4233182a738e5
     email: mgoysco@gmail.com
-#    web: ""
-#    twitter: ""
-#    description: ""
+    web: "https://mgoy.co"
+    twitter: "https://www.twitter.com/mgoycoolea"
+    description: "Adventurer"
 
 
 # Plugins

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "The 1 thing you need to be an entrepreneur"
+title:  "The number 1 thing you need to succeed as an entrepreneur"
 author: martin
 categories: [ Startups, product ]
 image: assets/images/11.jpg
 featured: true
 hidden: true
+permalink: focus-for-startup-success
 ---
 
 Everyone wants to be an entrepreneur nowadays. Maybe it's the promise of fame, the big bucks at the end of the rainbow, or the everlasting glory after "making it". Despite countless of articles describing how jarring, uncertain, and stressful being an entrepreneur is, more snowflakes than ever decide to chase their unicorn.
