@@ -4,7 +4,7 @@ description: "Growth, Product Management, and Entrepreneurship - Martín Goycool
 meta_description: "How to analyze, manage, and grow digital products."
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
-baseurl: /
+baseurl: ''
 #google_analytics: ""
 #disqus: ""
 #mailchimp-list: ""
@@ -14,7 +14,7 @@ authors:
   martin:
     name: Martin
     display_name: Martin
-    gravatar: 26cb71c7a1526c6b7b85776c400e88fb
+    gravatar: 268ae3f005c2c3398ce4233182a738e5
     email: mgoysco@gmail.com
 #    web: ""
 #    twitter: ""
